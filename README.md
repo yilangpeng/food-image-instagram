@@ -1,4 +1,6 @@
-# This is the code repository for article "How Visual Aesthetics and Calorie Density Predict Food Image Popularity on Instagram: A Computer Vision Analysis."
+# Food image popularity
+
+This is the code repository for article "How Visual Aesthetics and Calorie Density Predict Food Image Popularity on Instagram: A Computer Vision Analysis."
 
 For the analysis of aesthetic features, such as brightness, color percentages, and visual complexity, please check the Athec package in https://github.com/yilangpeng/Athec . 
 
